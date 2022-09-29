@@ -82,10 +82,10 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     private Boolean loginData(){
-        username = "budiman";//xxxxx
+        username = "Ibrahim";//xxxxx
 
 
-        if (password.equals("budiman123")){
+        if (password.equals("rahasia123")){
             Log.e("loginData", "true");
             return true;
         } else {
